@@ -1,7 +1,12 @@
-body {
-    margin: 0;
+body{
+	background-image: url(img/4045579.jpg);
+	 background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+	background-attachment: scroll;
     min-height: 100vh;
-    background: linear-gradient(to bottom, #7B2CBF, #C77DFF);
+    margin: 0;
+
 }
 img {
   max-width: 100%;
