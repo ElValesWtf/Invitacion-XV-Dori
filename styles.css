@@ -6,12 +6,7 @@ body{
 	background-attachment: scroll;
     min-height: 100vh;
     margin: 0;
-	.hero {
-  min-height: 100vh;
-  background:
-    linear-gradient(rgba(43,23,72,.65), rgba(18,5,31,.9));
-  background-size: cover;
-  background-position: center;
+
 }
 	img {
   max-width: 100%;
